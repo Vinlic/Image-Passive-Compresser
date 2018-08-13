@@ -1,0 +1,14 @@
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\bin\Release\Image Auto Compresser.exe.config
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\bin\Release\Image Auto Compresser.exe
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\bin\Release\Image Auto Compresser.pdb
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image_Auto_Compresser.HomeForm.resources
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image_Auto_Compresser.Properties.Resources.resources
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image Auto Compresser.csproj.GenerateResource.cache
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image Auto Compresser.csproj.CoreCompileInputs.cache
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image Auto Compresser.exe
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image Auto Compresser.pdb
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\bin\Release\tools\jpegoptim.exe
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\bin\Release\tools\pngquant.exe
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\bin\Release\config.xml
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image_Auto_Compresser.HelpForm.resources
+C:\Users\Vinlic-PC\source\repos\Image Auto Compresser\Image Auto Compresser\obj\Release\Image_Auto_Compresser.RegexInput.resources

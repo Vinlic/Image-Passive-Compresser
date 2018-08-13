@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Auto Compresser", "Image Auto Compresser\Image Auto Compresser.csproj", "{B98AD023-E71F-45F7-8739-2D7DD8375F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98AD023-E71F-45F7-8739-2D7DD8375F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98AD023-E71F-45F7-8739-2D7DD8375F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98AD023-E71F-45F7-8739-2D7DD8375F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98AD023-E71F-45F7-8739-2D7DD8375F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE3363E8-62D6-4B99-ABB0-F8B25564F4E2}
+	EndGlobalSection
+EndGlobal

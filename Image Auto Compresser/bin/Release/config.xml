@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iac>
+  <sourceFolderPath></sourceFolderPath>
+  <outputFolderPath></outputFolderPath>
+  <sourceImgTypeList>jpg,png</sourceImgTypeList>
+  <enableSourceImgFilter>false</enableSourceImgFilter>
+  <sourceImgSize>100</sourceImgSize>
+  <sourceImgSizeUnit>KB</sourceImgSizeUnit>
+  <enableWatchChildFolder>false</enableWatchChildFolder>
+  <sourceImgNameMatchList>
+  </sourceImgNameMatchList>
+  <excludeImgPathList>
+  </excludeImgPathList>
+  <compressibility>50</compressibility>
+  <enableLosslessCompress>false</enableLosslessCompress>
+  <enableRewriteSourceImg>false</enableRewriteSourceImg>
+  <enableStartedCompressImg>false</enableStartedCompressImg>
+</iac>
